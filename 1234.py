@@ -5,11 +5,6 @@ In case of any unforeseen circumstances, the code can be reverted to any of the 
 
 #trying branching in git
 
-Due to a well-established version control system and the support for collaborative work, 
-git has garnered wide popularity not just amongst the software developers, but also among the people who do other tasks like documentation or 
-any other collaborative work. It can seem challenging at first, but once we get the hang of git,
-we find that it makes our lives much simpler.
-
 1. What is a version control system (VCS)?
 A VCS keeps track of the contributions of the developers working as a team on the projects. \
 They maintain the history of code changes done and with project evolution,
@@ -20,4 +15,5 @@ and run tests with confidence that their previously working copy could be restor
 A repository is a file structure where git stores all the project-based files. Git can either stores the files on the local or the remote repository.
 
 3. What does git clone do?
-The command creates a copy (or clone) of an existing git repository. Generally, it is used to get a copy of the remote repository to the local repository.
+The command creates a copy (or clone) of an existing git repository. 
+Generally, it is used to get a copy of the remote repository to the local repository.
