@@ -17,3 +17,9 @@ I'm now trying versioning.
 dcdcc
 
 #publishing b6
+
+#version 3.0
+#1
+#2
+#3
+#4
